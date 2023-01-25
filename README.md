@@ -7,7 +7,7 @@ Practise Goals:
 - Apache Hadoop
   * Word Count Problem 
 
-![Screenshot](WordCount Problem/MR.png)
+![Screenshot]([WordCount Problem/MR.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.guru99.com%2Fintroduction-to-mapreduce.html&psig=AOvVaw0Idl1EP6VlbFyHh8wjxP_O&ust=1674759270511000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPCW_M2y4_wCFQAAAAAdAAAAABAE))
 
   * Find Minimum Stocks 
 
