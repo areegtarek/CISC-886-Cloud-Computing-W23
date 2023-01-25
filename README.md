@@ -5,13 +5,13 @@ Cloud Computing and Big Data course is a part of Queen's Master's degree in Arti
 Practise Goals:
 
 - Apache Hadoop
-  * Word Count Problem 
+  1* Word Count Problem 
 
 
 ![image description](https://www.guru99.com/images/Big_Data/061114_0930_Introductio1.png)
 
 
-  * Find Minimum Stocks 
+  2* Find Minimum Stocks 
 
 - Apache Pig
 - Apache Hive
