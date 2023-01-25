@@ -7,7 +7,7 @@ Practise Goals:
 - Apache Hadoop
   * Word Count Problem 
 
-![Screenshot](MR.png)
+![Screenshot](WordCount Problem/MR.png)
 
   * Find Minimum Stocks 
 
