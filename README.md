@@ -4,7 +4,7 @@ Cloud Computing and Big Data course is a part of Queen's masters degree.
 
 Practise Goals:
 
-Apache Hadoop
-Apache Pig
-Apache Hive
+- Apache Hadoop
+- Apache Pig
+- Apache Hive
 
