@@ -9,9 +9,7 @@ Practise Goals:
 
 
 ![image description](https://www.guru99.com/images/Big_Data/061114_0930_Introductio1.png)
-
-
-  * 2-Find Minimum Stocks 
+ * 2-Find Minimum Stocks 
 
 - Apache Pig
 - Apache Hive
