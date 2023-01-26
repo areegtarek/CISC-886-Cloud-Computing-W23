@@ -14,6 +14,9 @@ Practise Goals:
 
   Write a MapReduce program in java that considers as input the Stock.csv file for the stock quotes of 1 year, the goal is to find out the minimum closing price of each type of quotes (e.g. TSLA) taken from the 6th column (after adding the Ticker column) of the stock.csv file.
 
-- Apache Pig
+- Apache Pig:
+
+  Download the json file from https://qa.mpi-inf.mpg.de/comqa/comqa_train.json and copy it into a text file. Our intention is to find out the WH question words (who, what, where, whom, which, how) from the given file.
+  
 - Apache Hive
 
