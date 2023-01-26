@@ -1,5 +1,3 @@
-# Lab1 20399122 Areeg Mansour
-
 question = LOAD 'comqa_train.txt'  as (data:chararray );
 
 a = foreach question generate TOKENIZE(data) as data;
